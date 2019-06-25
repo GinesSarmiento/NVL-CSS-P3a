@@ -1,0 +1,43 @@
+ol{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 520px;
+	padding-bottom: 25px;
+	padding-left: 0px;
+}
+ol li{
+	list-style-type: none;
+	width: 20px;
+	float:left;
+	text-align: center;
+}
+ol li a{
+	color: white;
+	text-decoration: none;
+
+}
+.terminos {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	clear:both;
+}
+h1{
+	text-align: center;
+	margin-top: 70px;
+}
+h1, h2{
+	color: rgb(31,128,119);
+}
+p{
+	text-indent: 40px;
+}
+img{
+	width: 40%;
+	float:right;
+	min-width:200px;
+	max-width: 300px;
+	padding: 15px;
+}
